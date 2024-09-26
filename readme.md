@@ -1,12 +1,14 @@
 # How to use:
-- Clone the repo; cd to the script "easy-tls_cipher_info".
+- Clone the repo
+
+- cd to the script "cd easy-tls_cipher_info"
 
 - Run the script, providing the host as the first parameter 
 
 
 ```
 
-git clone git@github.com:dchahla/easy-tls_cipher_info.sh.git && \
+git clone git@github.com:dchahla/easy-tls_cipher_info.git && \
 
 cd easy-tls_cipher_info && \
 
