@@ -1,9 +1,10 @@
 # How to use:
-- Clone the repo
+- Clone the repo 
+```git clone git@github.com:dchahla/easy-tls_cipher_info.git```
 
-- cd to the script "cd easy-tls_cipher_info"
+- cd to the script ```cd easy-tls_cipher_info```
 
-- Run the script, providing the host as the first parameter 
+- Run the script, providing the host as the first parameter  ```./tls_cipher_info.sh aws.com```
 
 
 ```
